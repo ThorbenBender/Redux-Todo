@@ -1,5 +1,5 @@
 
-import * as types from '../constansts/actionType';
+// import * as types from '../constants/actionType';
 import uuid from 'uuid';
 
 const initialState = [
